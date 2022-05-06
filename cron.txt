@@ -1,0 +1,1 @@
+*/10 * * * * /home/sor22/cs305_sor22/test.sh 1>> /home/sor22/cs305_sor22/test.log
